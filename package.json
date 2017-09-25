@@ -1,0 +1,19 @@
+{
+  "name": "ravi",
+  "version": "1.0.0",
+  "description": "htmlcssjs_basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauteetech/htmlcssjs.git"
+  },
+  "author": "ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauteetech/htmlcssjs/issues"
+  },
+  "homepage": "https://github.com/kauteetech/htmlcssjs#readme"
+}
